@@ -1,5 +1,5 @@
 # Poprawa jakości segmentacji semantycznej z wykorzystaniem kontekstu czasowego (WIP)
-----
+
 Projekt realizowany w ramach kursu Zaawansowane Sieci Neuronowe.
 
 ## Opis projektu
