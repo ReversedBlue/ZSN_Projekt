@@ -1,3 +1,10 @@
+# ML / datasets / models (WAŻNE DLA CIEBIE)
+lightning_logs/
+CARLA_dataset/
+*.ckpt
+*.pth
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
