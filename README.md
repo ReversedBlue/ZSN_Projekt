@@ -1,3 +1,8 @@
+Folder o nazwie CARLA_dataset musi znaleźć się na repozytorium
+
+plik resnet_segmentation_train1.ckpt w folderze source
+
+
 # Poprawa jakości segmentacji semantycznej z wykorzystaniem kontekstu czasowego (WIP)
 
 Projekt realizowany w ramach kursu Zaawansowane Sieci Neuronowe.
