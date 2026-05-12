@@ -50,5 +50,6 @@ Głównym celem projektu jest zbadanie i implementacja metod poprawy jakości se
 
 
 ## Literatura
+xd
 
 
